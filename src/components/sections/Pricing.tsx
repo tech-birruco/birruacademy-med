@@ -50,7 +50,7 @@ export default function Pricing() {
                     content_name: 'Birru Academy - Mastering Early Detection',
                     content_category: 'Kuliah WhatsApp',
                     currency: 'IDR',
-                    value: 4900000
+                    value: 4949000
                   });
                 }
                 window.open('https://api.whatsapp.com/send?phone=6282281920653&text=Halo%20Kak%2C%20Saya%20Mau%20Ikut%20Kelas%203%20Days%20Mastering%20Early%20Detection', '_blank');

@@ -2,9 +2,9 @@ import { Quote, Star, Heart } from 'lucide-react';
 
 const testimonials = [
   {
-    quote: "Awalnya ragu karena harganya yang terjangkau, tapi setelah ikut kelas ini, saya jadi paham banget cara mendampingi anak dalam belajar komunikasi.",
-    author: "Bunda Rahma",
-    location: "Jakarta",
+    quote: "Sangat membantu kak, jadi tahu perkembangan bahasa bicara anak yang sesuai usia itu gimana, tahapannya, terbantu juga sama QnA. Makin ada gambaran harus ngapain.",
+    author: "Bunda Susanti",
+    location: "Pasuruan",
     rating: 5,
     image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=200"
   },
