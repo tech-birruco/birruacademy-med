@@ -26,7 +26,7 @@ export default function Benefit() {
             <span className="text-sm font-medium">Manfaat</span>
           </div>
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900">
-            Dengan mengikuti Kuliah WhatsApp ini, Ayah Bunda akan
+            Dengan Mengikuti Kelas Birru Academy, Ayah Bunda Akan
           </h2>
         </div>
 
